@@ -36,7 +36,7 @@ def main():
 
     # Print out the interest earned and updated CD account balance with interest earned for the given months.
     # ADD YOUR CODE HERE
-    print('The interest on the CD is : $', format(interest_earned, ',.2f'))
-    print('The future CD account balance after',cd_maturity,'months is: $', format(updated_cd_balance, ',.2f'))
+    print('The interest on the CD is : $', format{interest_earned, ',.2f'})
+    print('The future CD account balance after',cd_maturity,'months is: $', format{updated_cd_balance, ',.2f'})
 if __name__ == "__main__":
     main()
